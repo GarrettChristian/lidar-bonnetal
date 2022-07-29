@@ -1,3 +1,6 @@
+darknet53/
+*.gz
+
 *.pyc
 *.pyo
 *.o
